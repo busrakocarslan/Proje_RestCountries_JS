@@ -1,0 +1,41 @@
+h1 img{    
+    border-radius: 10px;
+}
+body{
+    /* height: 90vh; */
+    
+    background-image: url(./img/hands-600497_1280.jpg);
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+#button {
+    margin: auto;
+    
+    
+}
+
+#button select {
+    
+    background-color: inherit;
+    border: none;
+    outline: none;
+    appearance: none;
+    padding-left: 1rem;
+    
+
+    
+}
+#card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
