@@ -53,7 +53,7 @@ const ulkeListe = (ulkeler) => {
             <li class="list-group-item">${borders|| "no borders"}</li>          
           </ul>
           <div class="card-body">
-            <a href="MAP:${
+            <a href="${
               Object.values(maps)[0]
             }" class="card-link">Go to google map</a>          
           </div>
